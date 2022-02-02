@@ -6,4 +6,6 @@
 ### 02. cycleGAN 활용
 <img src="https://ifh.cc/g/77Stm7.png" width="400">
 
-### 03. FID Score
+### 03. FID score
+- Ideal FID score : 0 ~ 10
+- pix2pix model : 49.1
