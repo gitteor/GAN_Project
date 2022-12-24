@@ -1,7 +1,7 @@
 ### AIB 프로젝트1 (2021/10/12 ~ 2021/10/21)
 ## GAN을 활용한 캐릭터 생성모델
 
-<img src="https://user-images.githubusercontent.com/47709585/209449875-e5f5b070-9f37-4fa9-b49e-182aefa10c75.jpg">
+<img src="https://user-images.githubusercontent.com/47709585/209449923-b8cfa7bf-0866-46c4-ac9e-5381939ad35f.jpg">
 
 
 ### 01. pix2pix 활용
